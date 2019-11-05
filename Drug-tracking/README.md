@@ -1,3 +1,8 @@
+-- Make sure you have Node.js, Go and Docker (CE edition is fine) installed.
+
+--Install Hyperledger
+
+-- Clone this repository
 -- From the drup-app folder, to remove any pre-existing Docker containers, run:
 
 -- docker rm -f $(docker ps -aq)
